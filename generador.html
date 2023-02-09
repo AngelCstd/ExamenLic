@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Generador</title>
+</head>
+<body>
+    <form>
+        <textarea name="parrafo" id="parrafo" cols="40" rows="10"></textarea>
+        <input type="text" name="respuesta" id="respuesta">
+        <input type="submit" value="listo">
+    </form>
+    <script>
+        const arreglo = []
+        document.querySelector("form").addEventListener("submit", (e)=>{
+            e.preventDefault()
+            let objeto = {
+                tema : document.querySelector("#respuesta").value,
+                resumen : document.querySelector("#parrafo").value
+            }
+            arreglo.push(objeto)
+            console.log(JSON.stringify(arreglo))
+            document.querySelector("#respuesta").value = ""
+            document.querySelector("#parrafo").value = ""
+            
+        })
+    </script>
+</body>
+</html>
