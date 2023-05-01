@@ -1,28 +1,23 @@
 <!DOCTYPE html>
 <html lang="es_MX">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <style>
-        h4{
-            opacity: 0;
-        }
-        .visible{
-            opacity: 1;
-        }
-
-    </style>
 </head>
-<body>
-    <div>
-        <p id="resumen"></p>
-        <h4 id="tema"></h4>
-        <button id="anterior">Anterior</button>
-        <button id="mostrar">Mostrar</button>
-        <button id="next">Siguiente</button>
-    </div>
+
+<body style="display: flex; justify-content: center;">
+    <form id="formulario">
+        <label for="frontal">Parte Frontal</label><br>
+        <input type="text" name="frontal" id="frontal"><br>
+        <label for="reverso">Parte Trasera</label><br>
+        <input type="text" name="reverso" id="reverso"><br>
+        <button id="guardar">Guardar</button>
+        <button id="imprimir">Imprimir</button>
+    </form>
     <script src="index.js"></script>
 </body>
+
 </html>

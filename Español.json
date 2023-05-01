@@ -1,0 +1,532 @@
+[
+    {
+        "pregunta": "¿Cuál es un modificador de objeto directo en la oración \"Juan compró una bicicleta roja\"?",
+        "opciones": [
+            "a) Juan",
+            "b) compró",
+            "c) una bicicleta roja"
+        ],
+        "respuesta": "c"
+    },
+    {
+        "pregunta": "¿Qué es un modificador de objeto directo?",
+        "opciones": [
+            "a) Una palabra que recibe la acción del verbo",
+            "b) Un tipo de modificador que describe o especifica el objeto directo de una oración",
+            "c) Una cláusula que se coloca antes del objeto directo"
+        ],
+        "respuesta": "b"
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes opciones es un modificador de objeto directo en la oración \"Ella leyó el libro que le presté\"?",
+        "opciones": [
+            "a) Ella",
+            "b) leyó",
+            "c) que le presté"
+        ],
+        "respuesta": "c"
+    },
+    {
+        "pregunta": "¿Puede un modificador de objeto directo ser una frase?",
+        "opciones": [
+            "a) Sí",
+            "b) No"
+        ],
+        "respuesta": "a"
+    },
+    {
+        "pregunta": "¿Qué función cumple un modificador de objeto directo en una oración?",
+        "opciones": [
+            "a) Agrega información adicional sobre el sujeto",
+            "b) Describe el verbo de la oración",
+            "c) Describe o especifica el objeto directo de la oración"
+        ],
+        "respuesta": "c"
+    },
+    {
+        "pregunta": "¿Qué subtema de la comprensión de lectura se refiere a la forma en que el texto está organizado?",
+        "opciones": [
+            "a) Inferencia de datos",
+            "b) Idea principal",
+            "c) Estructura del texto"
+        ],
+        "respuesta": "c"
+    },
+    {
+        "pregunta": "¿Qué subtema de la comprensión de lectura se refiere a la habilidad de deducir información no explícita en el texto?",
+        "opciones": [
+            "a) Idea secundaria",
+            "b) Inferencia de datos",
+            "c) Punto de vista del autor"
+        ],
+        "respuesta": "b"
+    },
+    {
+        "pregunta": "¿Qué subtema de la comprensión de lectura se refiere a la información más importante que se presenta en el texto?",
+        "opciones": [
+            "a) Frases clave",
+            "b) Idea principal",
+            "c) Punto de vista del autor"
+        ],
+        "respuesta": "b"
+    },
+    {
+        "pregunta": "¿Qué subtema de la comprensión de lectura se refiere a la información que apoya o complementa la idea principal?",
+        "opciones": [
+            "a) Idea secundaria",
+            "b) Punto de vista del autor",
+            "c) Inferencia de rasgos y sentimientos"
+        ],
+        "respuesta": "a"
+    },
+    {
+        "pregunta": "¿Qué subtema de la comprensión de lectura se refiere a las palabras o frases que resumen la idea principal o secundaria de un párrafo o sección de texto?",
+        "opciones": [
+            "a) Punto de vista del autor",
+            "b) Frases clave",
+            "c) Inferencia de datos"
+        ],
+        "respuesta": "b"
+    },
+    {
+        "pregunta": "¿Qué subtema de la comprensión de lectura se refiere a la actitud o perspectiva del autor hacia el tema del texto?",
+        "opciones": [
+            "a) Inferencia de rasgos y sentimientos",
+            "b) Idea secundaria",
+            "c) Estructura del texto"
+        ],
+        "respuesta": "a"
+    },
+    {
+        "pregunta": "¿Qué subtema de la comprensión de lectura se refiere a la habilidad de inferir los pensamientos y emociones de los personajes o del autor en el texto?",
+        "opciones": [
+            "a) Inferencia de datos",
+            "b) Inferencia de rasgos y sentimientos",
+            "c) Punto de vista del autor"
+        ],
+        "respuesta": "b"
+    },
+    {
+        "pregunta": "¿Qué es la comunicación?",
+        "opciones": [
+            "a) Un proceso en el cual un individuo interactúa socialmente a partir de la transmisión de mensajes de información. ",
+            " b) Un proceso en el cual un individuo interactúa solo a partir de la transmisión de mensajes de información. ",
+            " c) Un proceso en el cual un individuo interactúa socialmente sin la transmisión de mensajes de información."
+        ],
+        "respuesta": "a"
+    },
+    {
+        "pregunta": "¿Qué se requiere para la comunicación verbal?",
+        "opciones": [
+            "a) Un hablante y un oyente. ",
+            " b) Solo un hablante. ",
+            " c) Solo un oyente."
+        ],
+        "respuesta": "a"
+    },
+    {
+        "pregunta": "¿Qué es el mensaje en la comunicación?",
+        "opciones": [
+            "a) La lengua. ",
+            " b) El canal oral o escrito. ",
+            " c) La información cifrada que se transmite."
+        ],
+        "respuesta": "c"
+    },
+    {
+        "pregunta": "¿Qué son las intenciones comunicativas?",
+        "opciones": [
+            "a) Son los espacios donde se produce el mensaje. ",
+            " b) Son las situaciones de interacción en las que existen intenciones comunicativas. ",
+            " c) Son las personas que interactúan en la comunicación."
+        ],
+        "respuesta": "b"
+    },
+    {
+        "pregunta": "¿Qué es la función referencial?",
+        "opciones": [
+            "a) Se utiliza para causar conciencia, consumismo, culpa, cambio de actitud o que el receptor realice una acción. ",
+            " b) Se utiliza para describir o hablar sobre algo proporcionando información o datos objetivos y verificables sobre el referente, sin hacer valoraciones o pretender reacciones en nuestro receptor. ",
+            " c) Se utiliza para agradar al receptor y conmoverlo emocionalmente."
+        ],
+        "respuesta": "b"
+    },
+    {
+        "pregunta": "¿Qué es la función apelativa?",
+        "opciones": [
+            "a) Se utiliza para causar conciencia, consumismo, culpa, cambio de actitud o que el receptor realice una acción. ",
+            " b) Se utiliza para describir o hablar sobre algo proporcionando información o datos objetivos y verificables sobre el referente, sin hacer valoraciones o pretender reacciones en nuestro receptor. ",
+            " c) Se utiliza para agradar al receptor y conmoverlo emocionalmente."
+        ],
+        "respuesta": "a"
+    },
+    {
+        "pregunta": "¿En qué se utiliza la función poética?",
+        "opciones": [
+            "a) En la política y la publicidad. ",
+            " b) En formas literarias como la poesía, la lírica y la métrica. ",
+            " c) En la comunicación diaria."
+        ],
+        "respuesta": "b"
+    },
+    {
+        "pregunta": "¿Cuál es el objetivo del discurso descriptivo?",
+        "opciones": [
+            "a) Representar la realidad a través del lenguaje",
+            "b) Exponer hechos que se relatan a través de una trama o un argumento",
+            "c) Proporcionar razones para defender una opinión o refutar la de otra persona"
+        ],
+        "respuesta": "a"
+    },
+    {
+        "pregunta": "¿Cuál es la diferencia entre la descripción objetiva y la subjetiva?",
+        "opciones": [
+            "a) La objetiva busca crear una emoción en el lector, mientras que la subjetiva describe con objetividad y precisión las características",
+            "b) La subjetiva busca crear una emoción en el lector, mientras que la objetiva describe con objetividad y precisión las características",
+            "c) No hay diferencia entre ambas"
+        ],
+        "respuesta": "b"
+    },
+    {
+        "pregunta": "¿Qué pregunta responde el discurso narrativo?",
+        "opciones": [
+            "a) ¿Cómo es el objeto?",
+            "b) ¿Qué pasa con la cosa, acción o los personajes?",
+            "c) ¿Qué postura defiendo y por qué?"
+        ],
+        "respuesta": "b"
+    },
+    {
+        "pregunta": "¿Qué es una oración simple?",
+        "opciones": [
+            "a) Una oración compuesta por una oración simple llamada principal y una o más oraciones subordinadas",
+            "b) Una oración que tiene un sujeto, un verbo conjugado, un predicado y sentido completo",
+            "c) Una oración que no tiene ni sujeto ni verbo conjugado"
+        ],
+        "respuesta": "b"
+    },
+    {
+        "pregunta": "¿Qué son los verbos?",
+        "opciones": [
+            "a) Palabras que denotan propiedades o cualidades",
+            "b) Palabras que se alojan a los verbos para modificarlos",
+            "c) Palabras que por sí mismas pueden expresar una idea completa y son acciones que pueden ser conjugadas según su tiempo"
+        ],
+        "respuesta": "c"
+    },
+    {
+        "pregunta": "¿Qué son los adjetivos?",
+        "opciones": [
+            "a) Palabras que denotan propiedades o cualidades",
+            "b) Palabras que se alojan a los verbos para modificarlos",
+            "c) Palabras que integran algunas cosas"
+        ],
+        "respuesta": "a"
+    },
+    {
+        "pregunta": "¿Qué son los adverbios?",
+        "opciones": [
+            "a) Palabras que denotan propiedades o cualidades",
+            "b) Palabras que se alojan a los verbos para modificarlos",
+            "c) Palabras que son invariables y le dan un sentido gradual al verbo"
+        ],
+        "respuesta": "c"
+    },
+    {
+        "pregunta": "¿Para qué sirven las preposiciones?",
+        "opciones": [
+            "a) Para delimitar a los sustantivos",
+            "b) Para integrar algunas cosas",
+            "c) Para expresar acciones que pueden ser conjugadas"
+        ],
+        "respuesta": "a"
+    },
+    {
+        "pregunta": "¿Qué es el sujeto tácito?",
+        "opciones": [
+            "a) El sujeto que se encuentra expresado en la oración",
+            "b) El sujeto del que se dice algo o realiza la acción, pero no está escrito",
+            "c) El sujeto que se encuentra conjugado en el verbo"
+        ],
+        "respuesta": "b"
+    },
+    {
+        "pregunta": "¿Qué es el predicado?",
+        "opciones": [
+            "a) El verbo conjugado acompañado de otras palabras llamadas complementos",
+            "b) Las palabras que denotan propiedades o cualidades",
+            "c) Las palabras que se alojan a los verbos para modificarlos"
+        ],
+        "respuesta": "a"
+    },
+    {
+        "pregunta": "¿Qué son las analogías?",
+        "opciones": [
+            "a) Comparaciones entre palabras. ",
+            " b) Palabras con significado opuesto. ",
+            " c) Palabras con significado similar. ",
+            " d) Palabras con diferentes ortografías."
+        ],
+        "respuesta": "a"
+    },
+    {
+        "pregunta": "¿Qué tipo de relación establece la analogía \"cuchillo es a cortar como refrigerador es a enfriar\"?",
+        "opciones": [
+            "a) Funcional. ",
+            " b) De género o especie. ",
+            " c) De propiedades. ",
+            " d) De causa y efecto."
+        ],
+        "respuesta": "a"
+    },
+    {
+        "pregunta": "¿Qué tipo de relación establece la analogía \"cocodrilo es a reptil como departamento es a edificio\"?",
+        "opciones": [
+            "a) Funcional. ",
+            " b) De género o especie. ",
+            " c) De propiedades. ",
+            " d) De causa y efecto."
+        ],
+        "respuesta": "b"
+    },
+    {
+        "pregunta": "¿Qué tipo de relación establece la analogía \"hielo es a frio como algodón es a suavidad\"?",
+        "opciones": [
+            "a) Funcional. ",
+            " b) De género o especie. ",
+            " c) De propiedades. ",
+            " d) De causa y efecto."
+        ],
+        "respuesta": "c"
+    },
+    {
+        "pregunta": "¿Qué tipo de relación establece la analogía \"descansar es a cansancio como dormir es a sueño\"?",
+        "opciones": [
+            "a) Funcional. ",
+            " b) De género o especie. ",
+            " c) De propiedades. ",
+            " d) De acciones correctivas."
+        ],
+        "respuesta": "d"
+    },
+    {
+        "pregunta": "¿Qué son los sinónimos?",
+        "opciones": [
+            "a) Palabras que tienen significado opuesto. ",
+            " b) Palabras que tienen diferentes ortografías. ",
+            " c) Conceptos cuyo significado es similar o equivalente pero se escribe de forma diferente. ",
+            " d) Palabras con diferentes connotaciones."
+        ],
+        "respuesta": "c"
+    },
+    {
+        "pregunta": "¿Qué son los sinónimos contextuales?",
+        "opciones": [
+            "a) Palabras que evocan un mismo significado. ",
+            " b) Palabras que son sinónimos en todos los contextos. ",
+            " c) Palabras que no son sinónimos en todos los contextos, pero sí en algunos. ",
+            " d) Palabras que tienen el mismo referente."
+        ],
+        "respuesta": "c"
+    },
+    {
+        "pregunta": "¿Qué son los antónimos complementarios?",
+        "opciones": [
+            "a) Palabras que tienen significado opuesto, pero no necesariamente eliminan el significado del otro. ",
+            " b) Palabras que tienen significado opuesto y la afirmación de uno es la negación del otro. ",
+            " c) Palabras que designan una relación desde el punto de vista opuesto. ",
+            " d) Palabras que se oponen de forma gradual."
+        ],
+        "respuesta": "b"
+    },
+    {
+        "pregunta": "¿Qué son los antónimos graduales?",
+        "opciones": [
+            "a) Palabras que tienen significado opuesto, pero no necesariamente eliminan el significado del otro. ",
+            " b) Palabras que tienen significado opuesto y la afirmación de uno es la negación del otro. ",
+            " c) Palabras que designan una relación desde el punto de vista opuesto. ",
+            " d) Palabras que se oponen de forma gradual."
+        ],
+        "respuesta": "d"
+    },
+    {
+        "pregunta": "¿Qué son los homófonos?",
+        "opciones": [
+            "a) Palabras que tienen significado opuesto. ",
+            " b) Palabras que tienen diferentes ortografías. ",
+            " c) Palabras que tienen diferentes connotaciones. ",
+            " d) Palabras cuya pronunciación es idéntica"
+        ],
+        "respuesta": "d"
+    },
+    {
+        "pregunta": "¿Cuál es la estructura básica de un texto?",
+        "opciones": [
+            "a) Introducción, Desarrollo, Conclusión ",
+            " b) Título, Cuerpo, Autor ",
+            " c) Resumen, Tema, Idea principal"
+        ],
+        "respuesta": "a"
+    },
+    {
+        "pregunta": "¿Cuál es la función de la introducción en un texto?",
+        "opciones": [
+            "a) Presentar el tema y el objetivo del texto ",
+            " b) Desarrollar las ideas principales ",
+            " c) Concluir las ideas principales"
+        ],
+        "respuesta": "a"
+    },
+    {
+        "pregunta": "¿Qué es una tesis?",
+        "opciones": [
+            "a) Una idea secundaria ",
+            " b) Una idea principal ",
+            " c) Una conclusión"
+        ],
+        "respuesta": "b"
+    },
+    {
+        "pregunta": "¿Qué es la coherencia en un texto?",
+        "opciones": [
+            "a) La claridad en la expresión de las ideas ",
+            " b) La relación lógica entre las ideas ",
+            " c) La selección adecuada de las palabras"
+        ],
+        "respuesta": "b"
+    },
+    {
+        "pregunta": "¿Cuál es la función del párrafo en un texto?",
+        "opciones": [
+            "a) Desarrollar una idea principal ",
+            " b) Presentar el tema ",
+            " c) Concluir el texto"
+        ],
+        "respuesta": "a"
+    },
+    {
+        "pregunta": "¿Qué es un conectivo?",
+        "opciones": [
+            "a) Una palabra que une ideas ",
+            " b) Una palabra que da énfasis ",
+            " c) Una palabra que concluye"
+        ],
+        "respuesta": "a"
+    },
+    {
+        "pregunta": "¿Qué es la redundancia en un texto?",
+        "opciones": [
+            "a) La repetición innecesaria de ideas o palabras ",
+            " b) La falta de coherencia ",
+            " c) La falta de conectividad entre las ideas"
+        ],
+        "respuesta": "a"
+    },
+    {
+        "pregunta": "¿Qué es la ortografía?",
+        "opciones": [
+            "a) El conjunto de normas que regulan la escritura correcta de las palabras ",
+            " b) El uso adecuado de los conectivos ",
+            " c) La selección adecuada de las palabras"
+        ],
+        "respuesta": "a"
+    },
+    {
+        "pregunta": "¿Qué es la puntuación?",
+        "opciones": [
+            "a) El uso de signos que indican el fin de una idea o frase ",
+            " b) El uso de palabras similares ",
+            " c) El uso de conectivos"
+        ],
+        "respuesta": "a"
+    },
+    {
+        "pregunta": "¿Qué es la revisión en la redacción de un texto?",
+        "opciones": [
+            "a) Corregir errores ortográficos y gramaticales ",
+            " b) Cambiar ideas principales por secundarias ",
+            " c) Añadir más ideas al texto"
+        ],
+        "respuesta": "a"
+    },
+    {
+        "pregunta": "¿Cuál es la letra correcta en la palabra \"Consejo\"?",
+        "opciones": [
+            "a) S ",
+            " b) C"
+        ],
+        "respuesta": "b"
+    },
+    {
+        "pregunta": "¿Cuál es la letra correcta en la palabra \"Asistir\"?",
+        "opciones": [
+            "a) C ",
+            " b) S"
+        ],
+        "respuesta": "b"
+    },
+    {
+        "pregunta": "¿Cuál es la letra correcta en la palabra \"Casa\"?",
+        "opciones": [
+            "a) C ",
+            " b) Z"
+        ],
+        "respuesta": "a"
+    },
+    {
+        "pregunta": "¿Cuál es la letra correcta en la palabra \"Vibora\"?",
+        "opciones": [
+            "a) V ",
+            " b) B"
+        ],
+        "respuesta": "b"
+    },
+    {
+        "pregunta": "¿Cuál es la letra correcta en la palabra \"Ejercicio\"?",
+        "opciones": [
+            "a) G ",
+            " b) J"
+        ],
+        "respuesta": "b"
+    },
+    {
+        "pregunta": "¿Cuál es la letra correcta en la palabra \"Lluvia\"?",
+        "opciones": [
+            "a) Ll ",
+            " b) Y"
+        ],
+        "respuesta": "a"
+    },
+    {
+        "pregunta": "¿Cuál es la letra correcta en la palabra \"Hogar\"?",
+        "opciones": [
+            "a) H ",
+            " b) G"
+        ],
+        "respuesta": "a"
+    },
+    {
+        "pregunta": "¿Cuál es la letra correcta en la palabra \"Raro\"?",
+        "opciones": [
+            "a) R ",
+            " b) RR"
+        ],
+        "respuesta": "b"
+    },
+    {
+        "pregunta": "¿En qué palabra se debe usar el acento?",
+        "opciones": [
+            "a) Éxito ",
+            " b) Exito"
+        ],
+        "respuesta": "a"
+    },
+    {
+        "pregunta": "¿En qué palabra se debe usar el acento?",
+        "opciones": [
+            "a) Árbol ",
+            " b) Arbol"
+        ],
+        "respuesta": "a"
+    }
+]

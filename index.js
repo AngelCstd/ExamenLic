@@ -1,29 +1,35 @@
-let $resumen = document.querySelector("#resumen"),
-    $tema = document.querySelector("#tema"),
-    $mostrar = document.querySelector("#mostrar"),
-    $siguiente = document.querySelector("#next"),
-    $anterior = document.querySelector("#anterior"),
-    indice = 0;
+let preguntasObject = [];
+let imprimir = document.querySelector("#imprimir");
+let guardar = document.querySelector("#guardar");
+let formulario = document.querySelector("#formulario");
 
-    (async () => {
-    let data = await fetch("./prueba.json").then(res => res.json())
-    $resumen.innerHTML = data[indice].resumen
-    $tema.innerHTML = data[indice].tema
-})();
-$mostrar.addEventListener("click",()=>{
-    $tema.classList.toggle("visible")
-})
-$siguiente.addEventListener("click",async ()=>{
-    indice++;
-    let data = await fetch("./prueba.json").then(res => res.json())
-    if (indice >= data.length) indice = 0
-    $resumen.innerHTML = data[indice].resumen
-    $tema.innerHTML = data[indice].tema
-})
-$anterior.addEventListener("click",async ()=>{
-    indice--;
-    let data = await fetch("./prueba.json").then(res => res.json())
-    if (indice < 0) indice = data.length -1
-    $resumen.innerHTML = data[indice].resumen
-    $tema.innerHTML = data[indice].tema
+function copyToClipboard(text) {
+    navigator.clipboard.writeText(text)
+    .then(() => {
+        console.log("Texto copiado al portapapeles");
     })
+    .catch((error) => {
+        console.error("Error al copiar el texto al portapapeles: ", error);
+    });
+    }
+
+formulario.addEventListener("submit", (e)=>{
+    e.preventDefault()
+    guardar.click()
+})
+
+guardar.addEventListener("click", (e) => {
+    const inputFrontal = document.querySelector("#frontal");
+    const inputReverso = document.querySelector("#reverso");
+
+    let flashcard = {
+        frontal: inputFrontal.value,
+        reverso: inputReverso.value
+    };
+    preguntasObject.push(flashcard)
+    
+    inputFrontal.value = "";
+    inputReverso.value = "";
+})
+
+imprimir.addEventListener("click", () => copyToClipboard(JSON.stringify(preguntasObject)));
