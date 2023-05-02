@@ -1,9 +1,9 @@
 let preguntasObject = [];
 let imprimir = document.querySelector("#imprimir");
 let guardar = document.querySelector("#guardar");
-let formulario = document.querySelector("#formulario");
 
 function copyToClipboard(text) {
+    text = text.split("{\"frontal\":\"\",\"reverso\":\"\"},").join("");
     navigator.clipboard.writeText(text)
     .then(() => {
         console.log("Texto copiado al portapapeles");
@@ -11,12 +11,7 @@ function copyToClipboard(text) {
     .catch((error) => {
         console.error("Error al copiar el texto al portapapeles: ", error);
     });
-    }
-
-formulario.addEventListener("submit", (e)=>{
-    e.preventDefault()
-    guardar.click()
-})
+}
 
 guardar.addEventListener("click", (e) => {
     const inputFrontal = document.querySelector("#frontal");
